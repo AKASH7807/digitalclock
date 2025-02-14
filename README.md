@@ -18,3 +18,5 @@ This project showcases a simple yet visually appealing digital clock built using
 *CSS:* Styles the clock and implements animations for a visually appealing interface.
 
 *JavaScript:* Dynamically updates the time and creates the interactive clock effect.
+
+🔗**Live Link** https://akash7807.github.io/digitalclock/
